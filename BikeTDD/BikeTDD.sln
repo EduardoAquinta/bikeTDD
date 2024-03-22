@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BikeTDD.Tests", "BikeTDD.Tests\BikeTDD.Tests.csproj", "{0A75C383-62C6-43DF-9803-37EF5675BF0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BikeTDD.Code", "BikeTDD.Code\BikeTDD.Code.csproj", "{DE63D8D7-2F43-4956-98C1-47511C7FF6C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A75C383-62C6-43DF-9803-37EF5675BF0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A75C383-62C6-43DF-9803-37EF5675BF0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A75C383-62C6-43DF-9803-37EF5675BF0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A75C383-62C6-43DF-9803-37EF5675BF0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE63D8D7-2F43-4956-98C1-47511C7FF6C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE63D8D7-2F43-4956-98C1-47511C7FF6C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE63D8D7-2F43-4956-98C1-47511C7FF6C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE63D8D7-2F43-4956-98C1-47511C7FF6C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

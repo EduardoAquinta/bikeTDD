@@ -1,0 +1,12 @@
+/Users/megan.watson/Projects/BikeKataCSharp/bikeTDD/BikeTDD/BikeTDD.Code/bin/Debug/net7.0/BikeTDD.Code.deps.json
+/Users/megan.watson/Projects/BikeKataCSharp/bikeTDD/BikeTDD/BikeTDD.Code/bin/Debug/net7.0/BikeTDD.Code.dll
+/Users/megan.watson/Projects/BikeKataCSharp/bikeTDD/BikeTDD/BikeTDD.Code/bin/Debug/net7.0/BikeTDD.Code.pdb
+/Users/megan.watson/Projects/BikeKataCSharp/bikeTDD/BikeTDD/BikeTDD.Code/obj/Debug/net7.0/BikeTDD.Code.csproj.AssemblyReference.cache
+/Users/megan.watson/Projects/BikeKataCSharp/bikeTDD/BikeTDD/BikeTDD.Code/obj/Debug/net7.0/BikeTDD.Code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/megan.watson/Projects/BikeKataCSharp/bikeTDD/BikeTDD/BikeTDD.Code/obj/Debug/net7.0/BikeTDD.Code.AssemblyInfoInputs.cache
+/Users/megan.watson/Projects/BikeKataCSharp/bikeTDD/BikeTDD/BikeTDD.Code/obj/Debug/net7.0/BikeTDD.Code.AssemblyInfo.cs
+/Users/megan.watson/Projects/BikeKataCSharp/bikeTDD/BikeTDD/BikeTDD.Code/obj/Debug/net7.0/BikeTDD.Code.csproj.CoreCompileInputs.cache
+/Users/megan.watson/Projects/BikeKataCSharp/bikeTDD/BikeTDD/BikeTDD.Code/obj/Debug/net7.0/BikeTDD.Code.dll
+/Users/megan.watson/Projects/BikeKataCSharp/bikeTDD/BikeTDD/BikeTDD.Code/obj/Debug/net7.0/refint/BikeTDD.Code.dll
+/Users/megan.watson/Projects/BikeKataCSharp/bikeTDD/BikeTDD/BikeTDD.Code/obj/Debug/net7.0/BikeTDD.Code.pdb
+/Users/megan.watson/Projects/BikeKataCSharp/bikeTDD/BikeTDD/BikeTDD.Code/obj/Debug/net7.0/ref/BikeTDD.Code.dll

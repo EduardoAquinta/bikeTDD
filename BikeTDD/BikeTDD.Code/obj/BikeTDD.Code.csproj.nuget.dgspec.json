@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/eddieashton/Desktop/Projects Folder/bikeTDD/BikeTDD/BikeTDD.Code/BikeTDD.Code.csproj": {}
+    "/Users/megan.watson/Projects/BikeKataCSharp/bikeTDD/BikeTDD/BikeTDD.Code/BikeTDD.Code.csproj": {}
   },
   "projects": {
-    "/Users/eddieashton/Desktop/Projects Folder/bikeTDD/BikeTDD/BikeTDD.Code/BikeTDD.Code.csproj": {
+    "/Users/megan.watson/Projects/BikeKataCSharp/bikeTDD/BikeTDD/BikeTDD.Code/BikeTDD.Code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/eddieashton/Desktop/Projects Folder/bikeTDD/BikeTDD/BikeTDD.Code/BikeTDD.Code.csproj",
+        "projectUniqueName": "/Users/megan.watson/Projects/BikeKataCSharp/bikeTDD/BikeTDD/BikeTDD.Code/BikeTDD.Code.csproj",
         "projectName": "BikeTDD.Code",
-        "projectPath": "/Users/eddieashton/Desktop/Projects Folder/bikeTDD/BikeTDD/BikeTDD.Code/BikeTDD.Code.csproj",
-        "packagesPath": "/Users/eddieashton/.nuget/packages/",
-        "outputPath": "/Users/eddieashton/Desktop/Projects Folder/bikeTDD/BikeTDD/BikeTDD.Code/obj/",
+        "projectPath": "/Users/megan.watson/Projects/BikeKataCSharp/bikeTDD/BikeTDD/BikeTDD.Code/BikeTDD.Code.csproj",
+        "packagesPath": "/Users/megan.watson/.nuget/packages/",
+        "outputPath": "/Users/megan.watson/Projects/BikeKataCSharp/bikeTDD/BikeTDD/BikeTDD.Code/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/eddieashton/.nuget/NuGet/NuGet.Config"
+          "/Users/megan.watson/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[7.0.0-alpha.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

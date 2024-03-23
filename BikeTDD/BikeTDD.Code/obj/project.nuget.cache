@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "TCtJwcYFp6raXLxwXvS4cM3c3q+Nr1ummQdnbnPpfHrT6k3zbY9Jbh6k/NXrDpDGAUP+yd3ND5xZXcMXhAQLfg==",
+  "dgSpecHash": "rT11c8hW5EIDNa/DsQJp+Yp81ECiWBOxsVA60CxzZ6xvscyPc6QTf6OZvL17Qzr2mJz/GoenpIaNfqMDyxuUCA==",
   "success": true,
-  "projectFilePath": "/Users/eddieashton/Desktop/Projects Folder/bikeTDD/BikeTDD/BikeTDD.Code/BikeTDD.Code.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/megan.watson/Projects/BikeKataCSharp/bikeTDD/BikeTDD/BikeTDD.Code/BikeTDD.Code.csproj",
+  "expectedPackageFiles": [
+    "/Users/megan.watson/.nuget/packages/fluentassertions/7.0.0-alpha.3/fluentassertions.7.0.0-alpha.3.nupkg.sha512",
+    "/Users/megan.watson/.nuget/packages/system.configuration.configurationmanager/4.4.0/system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "/Users/megan.watson/.nuget/packages/system.security.cryptography.protecteddata/4.4.0/system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
   "logs": []
 }

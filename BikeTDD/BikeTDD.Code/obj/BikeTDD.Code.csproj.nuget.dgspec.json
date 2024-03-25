@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/eddieashton/Desktop/Projects Folder/bikeTDD/BikeTDD/BikeTDD.Code/BikeTDD.Code.csproj": {}
+    "C:\\Users\\edwoo\\Code\\bikeTDD\\BikeTDD\\BikeTDD.Code\\BikeTDD.Code.csproj": {}
   },
   "projects": {
-    "/Users/eddieashton/Desktop/Projects Folder/bikeTDD/BikeTDD/BikeTDD.Code/BikeTDD.Code.csproj": {
+    "C:\\Users\\edwoo\\Code\\bikeTDD\\BikeTDD\\BikeTDD.Code\\BikeTDD.Code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/eddieashton/Desktop/Projects Folder/bikeTDD/BikeTDD/BikeTDD.Code/BikeTDD.Code.csproj",
+        "projectUniqueName": "C:\\Users\\edwoo\\Code\\bikeTDD\\BikeTDD\\BikeTDD.Code\\BikeTDD.Code.csproj",
         "projectName": "BikeTDD.Code",
-        "projectPath": "/Users/eddieashton/Desktop/Projects Folder/bikeTDD/BikeTDD/BikeTDD.Code/BikeTDD.Code.csproj",
-        "packagesPath": "/Users/eddieashton/.nuget/packages/",
-        "outputPath": "/Users/eddieashton/Desktop/Projects Folder/bikeTDD/BikeTDD/BikeTDD.Code/obj/",
+        "projectPath": "C:\\Users\\edwoo\\Code\\bikeTDD\\BikeTDD\\BikeTDD.Code\\BikeTDD.Code.csproj",
+        "packagesPath": "C:\\Users\\edwoo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\edwoo\\Code\\bikeTDD\\BikeTDD\\BikeTDD.Code\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/eddieashton/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\edwoo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.404/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

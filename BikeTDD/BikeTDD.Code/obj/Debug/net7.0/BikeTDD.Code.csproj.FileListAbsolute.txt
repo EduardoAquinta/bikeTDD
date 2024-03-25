@@ -1,0 +1,12 @@
+C:\Users\edwoo\Code\bikeTDD\BikeTDD\BikeTDD.Code\bin\Debug\net7.0\BikeTDD.Code.deps.json
+C:\Users\edwoo\Code\bikeTDD\BikeTDD\BikeTDD.Code\bin\Debug\net7.0\BikeTDD.Code.dll
+C:\Users\edwoo\Code\bikeTDD\BikeTDD\BikeTDD.Code\bin\Debug\net7.0\BikeTDD.Code.pdb
+C:\Users\edwoo\Code\bikeTDD\BikeTDD\BikeTDD.Code\obj\Debug\net7.0\BikeTDD.Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwoo\Code\bikeTDD\BikeTDD\BikeTDD.Code\obj\Debug\net7.0\BikeTDD.Code.AssemblyInfoInputs.cache
+C:\Users\edwoo\Code\bikeTDD\BikeTDD\BikeTDD.Code\obj\Debug\net7.0\BikeTDD.Code.AssemblyInfo.cs
+C:\Users\edwoo\Code\bikeTDD\BikeTDD\BikeTDD.Code\obj\Debug\net7.0\BikeTDD.Code.csproj.CoreCompileInputs.cache
+C:\Users\edwoo\Code\bikeTDD\BikeTDD\BikeTDD.Code\obj\Debug\net7.0\BikeTDD.Code.sourcelink.json
+C:\Users\edwoo\Code\bikeTDD\BikeTDD\BikeTDD.Code\obj\Debug\net7.0\BikeTDD.Code.dll
+C:\Users\edwoo\Code\bikeTDD\BikeTDD\BikeTDD.Code\obj\Debug\net7.0\refint\BikeTDD.Code.dll
+C:\Users\edwoo\Code\bikeTDD\BikeTDD\BikeTDD.Code\obj\Debug\net7.0\BikeTDD.Code.pdb
+C:\Users\edwoo\Code\bikeTDD\BikeTDD\BikeTDD.Code\obj\Debug\net7.0\ref\BikeTDD.Code.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BikeTDD.Code")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c191c294f9cb05a16121d3b8afc71a238f4e7361")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b14048e49e7accc660dffa95178b98b2de7da23")]
 [assembly: System.Reflection.AssemblyProductAttribute("BikeTDD.Code")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BikeTDD.Code")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
